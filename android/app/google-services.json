@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775261553784",
+    "project_id": "pikachu-uq2hjp",
+    "storage_bucket": "pikachu-uq2hjp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775261553784:android:f7580d1cc37669a24b998d",
+        "android_client_info": {
+          "package_name": "com.mycompany.pikachu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAke3ttzvkw0pjBsLGfkNhIovSG44ncs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
